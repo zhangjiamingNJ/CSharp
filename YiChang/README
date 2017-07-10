@@ -1,0 +1,7 @@
+两个数字相加，练习使用try,catch,finally,throw
+异常的类型，FormatException,Exception,OutOfMemoryException，
+输出异常信息
+            catch (FormatException fEx)
+            {
+                exce.Text = fEx.Message;
+            }
